@@ -59,7 +59,7 @@ const Profile = ({ navigation }) => {
                 })
               })
               .catch((err) => {
-                showMessage(err?.response?.data?.message || 'Terjadi kesalahan')
+                showMessage(err?.response?.data?.message || 'Terjadi Error')
               })
           })
         }
