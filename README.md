@@ -33,7 +33,7 @@ Tools yang digunakan :
 6. [Android SDK](https://developer.android.com/studio)
 ---
 ## Project Repository
-1. Back-End Laravel [foodmarket-backend](https://github.com/arnoldarmandosuwuh/foodmarket-backend "Food Market Backend")
+1. Back-End Laravel [foodmarket-backend](https://github.com/anditirto/foodmarket-backend "Food Market Backend")
 ---
 ## How to Use
 1. Install package
