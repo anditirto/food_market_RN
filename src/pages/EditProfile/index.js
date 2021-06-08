@@ -47,7 +47,7 @@ const EditProfile = ({ navigation }) => {
     <ScrollView contentContainerStyle={styles.contentContainer}>
       <View style={styles.page}>
         <Header
-          title="Edit Profile"
+          title="Edit Profiless"
           subTitle="Update your profile"
           onBack={() => navigation.goBack()}
         />
